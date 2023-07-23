@@ -16,7 +16,7 @@ function App() {
   },[currentDeaths,currentKills,desiredKD])
 
   return (
-    <main className="bg-slate-100 text-slate-100  flex flex-col items-center font-mono h-screen bg-cover" style={{backgroundImage: "url(/public/bg-body.jpg)"}}>
+    <main className="bg-slate-100 text-slate-100  flex flex-col items-center font-mono h-screen bg-cover" style={{backgroundImage: "url(https://apexlegendsstatus.com/assets/layout/bg-body.jpg)"}}>
 
       <div className="my-4 text-4xl font-bold">K/D calculator</div>
 
