@@ -29,7 +29,7 @@ function App() {
             className=""
             value={desiredKD}
             onChange={(e) => setDesiredKD(Number(e.target.value))}
-            onClick={() => setDesiredKD("")}
+            onClick={() => setDesiredKD(0)}
           />
         </div>
         
@@ -40,7 +40,7 @@ function App() {
             className=""
             value={currentKills}
             onChange={(e) => setCurrentKills(Number(e.target.value))}
-            onClick={() => setCurrentKills("")}
+            onClick={() => setCurrentKills(0)}
           />
         </div>
         
@@ -51,7 +51,7 @@ function App() {
             className=""
             value={currentDeaths}
             onChange={(e) => setCurrentDeaths(Number(e.target.value))}
-            onClick={() => setCurrentDeaths("")}
+            onClick={() => setCurrentDeaths(0)}
           />
         </div>
 
