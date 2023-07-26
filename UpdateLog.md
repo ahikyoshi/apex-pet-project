@@ -13,3 +13,8 @@ New link: https://effervescent-belekoy-d28591.netlify.app
 ## Minor changes
 1. Название приложение было изменено на Aurora apex
 2. Калькулятор вынесен в отдельный компонент
+
+Aurora Apex 0.1.3(lang fix)
+
+## Bug fix
+1. Изменен язык страницы, постоянно всплывало преложение о переводе страница
