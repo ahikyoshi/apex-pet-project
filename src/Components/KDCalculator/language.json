@@ -1,0 +1,20 @@
+{
+    "ru": {
+        "title": "K/D калькулятор",
+        "currentKills": "Убийства",
+        "currentDeaths": "Смерти",
+        "desiredKD": "Желаемый K/D",
+        "nedeedKills": "Необходимо киллов",
+        "kill": "убийство",
+        "death": "смерть"
+    },
+    "eng": {
+        "title": "K/D calculator",
+        "currentKills": "Current kills",
+        "currentDeaths": "Current deaths",
+        "desiredKD": "Desired K/D",
+        "nedeedKills": "needed kills",
+        "kill": "kill",
+        "death": "death"
+    }
+}
