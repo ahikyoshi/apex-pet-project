@@ -1,20 +1,24 @@
 {
     "ru": {
-        "title": "K/D калькулятор",
+        "title": "K/D Калькулятор",
         "currentKills": "Убийства",
         "currentDeaths": "Смерти",
         "desiredKD": "Желаемый K/D",
         "nedeedKills": "Необходимо киллов",
         "kill": "убийство",
-        "death": "смерть"
+        "death": "смерть",
+        "season": "Сезонный",
+        "all": "Общий"
     },
     "eng": {
-        "title": "K/D calculator",
+        "title": "K/D Calculator",
         "currentKills": "Current kills",
         "currentDeaths": "Current deaths",
         "desiredKD": "Desired K/D",
         "nedeedKills": "needed kills",
         "kill": "kill",
-        "death": "death"
+        "death": "death",
+        "season": "Season",
+        "all": "All"
     }
 }
