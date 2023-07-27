@@ -1,4 +1,4 @@
-Aurora Apex update 0.1.3 - Локальное сохранение
+# Aurora Apex update 0.1.3 - Локальное сохранение
 
 New link: https://effervescent-belekoy-d28591.netlify.app
 
@@ -14,12 +14,16 @@ New link: https://effervescent-belekoy-d28591.netlify.app
 1. Название приложение было изменено на Aurora apex
 2. Калькулятор вынесен в отдельный компонент
 
-Aurora Apex 0.1.3 - Фиксы
+
+
+# Aurora Apex 0.1.3 - Фиксы
 
 ## Bug fix
 1. Изменен язык страницы, постоянно всплывало преложение о переводе страница
 
-Aurora Apex update 0.1.4 - Разделённые КД на сезонное и общее
+
+
+# Aurora Apex update 0.1.4 - Разделённые КД на сезонное и общее
 
 New link: https://effervescent-belekoy-d28591.netlify.app
 
@@ -28,3 +32,19 @@ New link: https://effervescent-belekoy-d28591.netlify.app
 
 ## Bug fix
 1. Неправильно сохранялись смерти в локальное хранилище
+
+
+
+# Aurora Apex update 0.1.5 - Разделённые КД на сезонное и общее
+
+New link: https://effervescent-belekoy-d28591.netlify.app
+
+## Feat
+1. Добавлена функция снизить убийства/смерти на 1
+
+## Bug fix
+
+## Minor changes
+1. Изменён внешний вид смены языка
+2. Создан новый компонент Шапка
+3. Обновлен внешний вид updateLog
