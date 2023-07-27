@@ -19,7 +19,7 @@ Aurora Apex 0.1.3 - Фиксы
 ## Bug fix
 1. Изменен язык страницы, постоянно всплывало преложение о переводе страница
 
-Aurora Apex update 0.1.4 - Разделеные КД на сезонное и общее
+Aurora Apex update 0.1.4 - Разделённые КД на сезонное и общее
 
 New link: https://effervescent-belekoy-d28591.netlify.app
 
@@ -28,5 +28,3 @@ New link: https://effervescent-belekoy-d28591.netlify.app
 
 ## Bug fix
 1. Неправильно сохранялись смерти в локальное хранилище
-
-## Minor changes
